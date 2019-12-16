@@ -53,9 +53,28 @@
     pretty-ms "^0.2.1"
     text-table "^0.2.0"
 
+"@olliv/fetch@6.0.2":
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/@olliv/fetch/-/fetch-6.0.2.tgz#b46407451f82b6268849074b651720c11adeeca8"
+  integrity sha512-AYg65X/9JR1suLIJ5XJ43yG/q55mP/GSjzu5VbTjOZep8iWypvaBlha9VkyKvT6xc40zlds7gX0k0NNwynrPxQ==
+  dependencies:
+    "@types/node-fetch" "2"
+
 "@types/fetch-mock@5.12.2":
   version "5.12.2"
   resolved "https://registry.yarnpkg.com/@types/fetch-mock/-/fetch-mock-5.12.2.tgz#8c96517ff74303031c65c5da2d99858e34c844d2"
+
+"@types/node-fetch@2":
+  version "2.5.4"
+  resolved "https://registry.yarnpkg.com/@types/node-fetch/-/node-fetch-2.5.4.tgz#5245b6d8841fc3a6208b82291119bc11c4e0ce44"
+  integrity sha512-Oz6id++2qAOFuOlE1j0ouk1dzl3mmI1+qINPNBhi9nt/gVOz0G+13Ao6qjhdF0Ys+eOkhu6JnFmt38bR3H0POQ==
+  dependencies:
+    "@types/node" "*"
+
+"@types/node@*":
+  version "12.12.14"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.12.14.tgz#1c1d6e3c75dba466e0326948d56e8bd72a1903d2"
+  integrity sha512-u/SJDyXwuihpwjXy7hOOghagLEV1KdAST6syfnOk6QZAMzZuWZqXy5aYYZbh8Jdpd4escVFP0MvftHNDb9pruA==
 
 "@types/node@8.5.5":
   version "8.5.5"

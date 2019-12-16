@@ -1,6 +1,6 @@
 {
-  "name": "graphql-request",
-  "version": "0.0.0-semantic-release",
+  "name": "@jamo/graphql-request",
+  "version": "2.0.2",
   "main": "dist/src/index.js",
   "typings": "./dist/src/index.d.ts",
   "files": [
@@ -37,6 +37,7 @@
     "size": "bundlesize"
   },
   "dependencies": {
+    "@olliv/fetch": "6.0.2",
     "cross-fetch": "2.2.2"
   },
   "devDependencies": {
