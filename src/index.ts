@@ -1,7 +1,7 @@
 import { ClientError, GraphQLError, Headers as HttpHeaders, Options, Variables } from './types'
 export { ClientError } from './types'
 import { fetch as fetchImpl } from 'cross-fetch/polyfill'
-import createFetch from '@olliv/fetch'
+import createFetch from '@turist/fetch'
 
 const fetch = createFetch(fetchImpl)
 

@@ -53,10 +53,10 @@
     pretty-ms "^0.2.1"
     text-table "^0.2.0"
 
-"@olliv/fetch@6.0.2":
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/@olliv/fetch/-/fetch-6.0.2.tgz#b46407451f82b6268849074b651720c11adeeca8"
-  integrity sha512-AYg65X/9JR1suLIJ5XJ43yG/q55mP/GSjzu5VbTjOZep8iWypvaBlha9VkyKvT6xc40zlds7gX0k0NNwynrPxQ==
+"@turist/fetch@7.1.5":
+  version "7.1.5"
+  resolved "https://registry.yarnpkg.com/@turist/fetch/-/fetch-7.1.5.tgz#48ba883785e93e5dabc344260cac488b8e883248"
+  integrity sha512-PIAAtQ7W8KkFDh3Skmmi0WAwZgA740jRNCRcw95Orxk0I+zX9waNK5RFfBrkD6hX3/xuDlGO9U2ug08BAZPNmA==
   dependencies:
     "@types/node-fetch" "2"
 

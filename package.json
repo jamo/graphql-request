@@ -37,7 +37,7 @@
     "size": "bundlesize"
   },
   "dependencies": {
-    "@olliv/fetch": "6.0.2",
+    "@turist/fetch": "7.1.5",
     "cross-fetch": "2.2.2"
   },
   "devDependencies": {
